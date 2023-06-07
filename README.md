@@ -54,9 +54,7 @@ While the current implementation fulfills the basic requirements, there is alway
 
 - User authentication: Implement user accounts to allow users to have personalized profiles and track their own entries.
 - Rich text editor: Replace the plain textarea with a rich text editor to provide a more user-friendly editing experience.
-- Categories and tags: Introduce a categorization system for entries and enable
-
- searching by categories and tags.
+- Categories and tags: Introduce a categorization system for entries and enable searching by categories and tags.
 - Media uploads: Allow users to upload and embed media files such as images and videos in their entries.
 - Version control: Implement a version control system to track the changes made to each entry and provide revision history.
 - Advanced search features: Enhance the search functionality with advanced filters and options to improve search accuracy and relevance.
