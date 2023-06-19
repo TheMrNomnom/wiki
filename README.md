@@ -59,7 +59,11 @@ While the current implementation fulfills the basic requirements, there is alway
 - Version control: Implement a version control system to track the changes made to each entry and provide revision history.
 - Advanced search features: Enhance the search functionality with advanced filters and options to improve search accuracy and relevance.
 
-Feel free to contribute to this project by adding new features, fixing bugs, or suggesting improvements.
+## Contributing
+
+Contributions are welcome! If you find any issues or want to enhance the application, feel free to submit a pull request.
+
+Please ensure that your code follows the PEP 8 style guide and includes appropriate tests.
 
 ## Credits
 
