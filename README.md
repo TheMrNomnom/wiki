@@ -63,4 +63,8 @@ Feel free to contribute to this project by adding new features, fixing bugs, or 
 
 ## Credits
 
-This project is developed based on the specifications provided by [CS50](https://cs50.harvard.edu/) from Harvard University. The Python framework Django and the `python-markdown2` package are used in this implementation.
+This project is developed based on the specifications provided by [CS50](https://cs50.harvard.edu/web/2020/projects/1/wiki/) from Harvard University.
+
+## License
+
+This project is licensed under the MIT License. You can find the license information in the [LICENSE](LICENSE) file.
